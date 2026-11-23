@@ -1,0 +1,6 @@
+{
+  "name": "BABY AI",
+  "description": "Advanced futuristic personal AI assistant for Android by ST Creation — For Pious Mission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
